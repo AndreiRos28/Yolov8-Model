@@ -1,7 +1,7 @@
 ## ⚙️ Installation
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/yourusername/human-tracker.git
+   git clone https://github.com/AndreiRos28/Yolov8-Model.git
    cd human-tracker
 Create a virtual environment (recommended):
 
