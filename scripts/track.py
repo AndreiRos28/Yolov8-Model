@@ -10,7 +10,7 @@ import os
 from collections import deque
 import time
 
-YOLO_WEIGHTS = "C:/Downloads/Human.v1i.yolov8/runs/detect/train/weights/best.pt"
+YOLO_WEIGHTS = "C:/Downloads/Human.v1i.yolov8/weights_backup/best.pt"
 CONF_THRESHOLD = 0.75
 BOX_COLOR = (0, 255, 0)
 UID_COLOR = (0, 0, 255)
