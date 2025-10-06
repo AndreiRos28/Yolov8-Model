@@ -1,0 +1,8 @@
+tracker_type: deep_sort
+reid_model: "osnet_x0_25"    # re-ID model for appearance features
+max_age: 30                  # max frames to keep a track without detections
+max_iou_distance: 0.7        # IOU threshold for matching
+nn_budget: 100               # size of feature gallery
+embedder: "mobilenet"        # appearance feature extractor
+embedder_gpu: True           # use GPU if available
+half: True                   # use half precision for speed
