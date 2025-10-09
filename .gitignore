@@ -1,2 +1,9 @@
-# Ignore dataset (images + labels)
+# .gitignore
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
 data/
